@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Hey y'all"
+title: "The art of blogging"
 date: 2013-03-02 15:27
 comments: true
 categories: 
 ---
-Hi my name is Michael. I am working in sf. 
+Comments to follow.
