@@ -4,7 +4,7 @@
   <title><![CDATA[Michael's Blog]]></title>
   <link href="http://greenspan.github.com/atom.xml" rel="self"/>
   <link href="http://greenspan.github.com/"/>
-  <updated>2013-03-02T18:35:41-08:00</updated>
+  <updated>2013-03-02T19:04:28-08:00</updated>
   <id>http://greenspan.github.com/</id>
   <author>
     <name><![CDATA[Michael Geenspan]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Hello World]]></title>
+    <title type="html"><![CDATA[Hey y'all]]></title>
     <link href="http://greenspan.github.com/blog/2013/03/02/hello-world/"/>
     <updated>2013-03-02T15:27:00-08:00</updated>
     <id>http://greenspan.github.com/blog/2013/03/02/hello-world</id>
