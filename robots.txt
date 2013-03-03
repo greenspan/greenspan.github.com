@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://greenspan.github.com/sitemap.xml 
