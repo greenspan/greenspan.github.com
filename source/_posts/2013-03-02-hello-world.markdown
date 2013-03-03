@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello World"
+title: "Hey y'all"
 date: 2013-03-02 15:27
 comments: true
 categories: 
