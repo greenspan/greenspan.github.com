@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Michael's Blog]]></title>
+  <link href="http://greenspan.github.com/atom.xml" rel="self"/>
+  <link href="http://greenspan.github.com/"/>
+  <updated>2013-03-03T10:49:58-08:00</updated>
+  <id>http://greenspan.github.com/</id>
+  <author>
+    <name><![CDATA[Michael Geenspan]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The art of blogging]]></title>
+    <link href="http://greenspan.github.com/blog/2013/03/02/hello-world/"/>
+    <updated>2013-03-02T15:27:00-08:00</updated>
+    <id>http://greenspan.github.com/blog/2013/03/02/hello-world</id>
+    <content type="html"><![CDATA[<p>Comments to follow.</p>
+]]></content>
+  </entry>
+  
+</feed>
